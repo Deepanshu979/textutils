@@ -52,7 +52,7 @@ function App() {
       {/* <About/> */}
           
       </Route>
-      <Route exact path="/about" element={<About mode={mode}/>}>
+      <Route exact path="/about" element={<About />}>
         
       </Route>
       
